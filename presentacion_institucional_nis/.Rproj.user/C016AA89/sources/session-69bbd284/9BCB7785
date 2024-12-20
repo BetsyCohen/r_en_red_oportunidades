@@ -1,9 +1,9 @@
 {
     "id": "9BCB7785",
-    "path": "~/NIS/presentacion_institucional_nis/presentacion_institucional.qmd",
+    "path": "~/NIS/r_en_red_oportunidades/presentacion_institucional_nis/presentacion_institucional.qmd",
     "project_path": "presentacion_institucional.qmd",
     "type": "quarto_markdown",
-    "hash": "1993038465",
+    "hash": "2969428782",
     "contents": "",
     "dirty": false,
     "created": 1734281583858.0,
@@ -17,16 +17,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "155,17",
-        "scrollLine": "149",
+        "cursorPosition": "128,68",
+        "scrollLine": "127",
         "rmdVisualModeLocation": "1178:458"
     },
     "folds": "",
-    "lastKnownWriteTime": 1734297388,
+    "lastKnownWriteTime": 1734695837,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1734297388730,
+    "last_content_update": 1734695837745,
     "read_only": false,
     "read_only_alternatives": []
 }

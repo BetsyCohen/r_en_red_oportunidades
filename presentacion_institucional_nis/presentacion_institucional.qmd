@@ -13,7 +13,7 @@ format:
     theme: simple  
     chalkboard: false
     notes: false
-footer: <https://www.nucleodeinnovacion.com/>
+footer: "https://nucleodeinnovacion.netlify.app/"
 self-contained: false
 slide-number: c/t
 logo: images/logoNIS.png
@@ -43,11 +43,11 @@ Nuestra misión es promover procesos de transformación y mejora colectiva basad
 ![](images/img_01.png){fig-align="right"}
 :::
 
-## Algunas ideas que nos guian{.smaller}
+## Algunas ideas que nos guían {.smaller}
 
 -   **Se transforma lo que se puede conocer**
 
-    Transformamos el conocimiento en acciones, soluciones y productos tecnológicos con impactos concretos y medibles.
+    Transformamos el conocimiento en acciones, soluciones y productos tecnológicos con impacto concretos y mesurable.
 
 -   **Ideas basadas en evidencia para construir accionables**
 
@@ -75,9 +75,7 @@ Nuestra misión es promover procesos de transformación y mejora colectiva basad
 
 📝 Elaboración de informes ad-hoc
 
-
 ## Como lo hacemos
-
 
 -   Cooperación - Horizontalidad - Interdisiplinariedad.
 
@@ -87,73 +85,59 @@ Nuestra misión es promover procesos de transformación y mejora colectiva basad
 
 -   El trabajo es tiempo, y siempre tratamos de capitalizarlo.
 
+## Algunas historias en las que ayudamos a construir conocimiento {.r-fit-text}
 
-## Algunas historias en las que ayudamos a construir conocimiento {.smaller}
+## Encuesta con Perspectiva de Envejecimiento {.smaller}
 
-:::::::::::: columns
-::: {.column width="60%"}
-### Junto a les viejes {.smaller}
+:::{.column width="40%"}
+
+![](images/ADISAC_viejes.png){fig-align="left" width="300px"}
+
 Realizamos la Encuesta con Perspectiva de Envejecimiento (EPEAR) junto al Colectivo Gerontológico de ADISAC y el Instituto de Estudios y Formación de la CTA.
 
 Relevamos datos clave como la **soledad no deseada**, que afecta gravemente a esta población.
-:::
-:::{.column width="40%"}
-![](images/ADISAC_viejes.png){fig-align="center" width="400px"}
-:::
-::::::::::::
 
-:::::::::::: columns
-
-********
-
-::::::::::::
-
-:::::::::::: columns
-::: {.column width="60%"}
-### Junto a la industria del libro {.smaller}
-Colaboramos con la Cámara Argentina del Libro en informes de producción basados en el registro de ISBN y complementariamente llevamos adelante encuestas de ventas a los principales actores de la cadena. La Shiny **Monitor Editorial Argentino**, enfocado en la producción comercial permiten a la CAL dar divulgación en los medios y promover políticas para el sector.
 :::
 
-:::{.column width="40%"}
-![](images/CAL_informe_produ.jpg){fig-align="center" width="400px"}
-:::
+:::{.column width="60%" style="text-align: center; margin-top: 1em"}
 
-:::::::::::: 
+```{=html}
+<iframe width="780" height="500" src="https://nucleodeinnovacion.netlify.app/proyectos/2024_11_informe_avance_epear/" title="Informe ADISAC"></iframe>
+```
+::::
 
----
 
-## Más historias de colaboración {.smaller}
+## Junto a la industria del libro {.smaller}
 
-:::::::::::: columns
-::: {.column width="60%"}
-### Junto a las universidades públicas {.smaller}
+Colaboramos con la Cámara Argentina del Libro en **informes de producción** basados en el registro de ISBN y complementariamente llevamos adelante **encuestas de ventas** a los principales actores de la cadena. La Shiny **Monitor Editorial Argentino**, enfocado en la producción comercial permiten a la CAL dar divulgación en los medios y promover políticas para el sector.
+
+```{=html}
+<iframe width="100%" height="50%" src="https://monitoreditorialcal.shinyapps.io/monitor_editorial/" title="Monitor editorial"></iframe>
+```
+
+## Junto a las universidades públicas {.smaller}
+
 Llevamos talleres de programación a la UBA y la UNLAM en conjunto con RLadies y R en Baires.
-:::
-::: {.column width="40%"}
-![](images/talleres.jpg){fig-align="center" width="400px"}
-:::
-:::::::::::: 
 
-:::::::::::: columns
 
-********
 
-::::::::::::
+![](images/talleres.jpg){.absolute top=200 left=0 width="500px"}
 
-:::::::::::: columns
-::: {.column width="60%"}
-### Junto a los sindicatos {.smaller}
+![](images/taller_uba_r_90_min.jpg){.absolute top=200 right=50 width="400px" height="300"}
+![](images/taller_uba_programacion.jpg){.absolute bottom=0 right=200 width="250" height="300"}
+
+![](images/tallerNISRbaires.jpg){.absolute bottom=0 left=50 width="500px" height="300"}
+
+
+## Junto a los sindicatos {.smaller}
+
+
 Creamos el **Monitor de Indicadores Sociales** con el Instituto de Estudios y Formación de la CTA, para que los trabajadores construyan su relato sobre la coyuntura.
-:::
 
-::: {.column width="40%"}
+
 ![](images/IEF_Monitor_socio_economico.png){fig-align="center" width="400px"}
-:::
-:::::::::::: 
 
----
+## ¡Te esperamos! {.r-fit-text}
 
-::: {.r-fit-text}
-¡Sumate!
-:::
+![](images/logoNIS.png){fig-align="center" width="400px"}
 
